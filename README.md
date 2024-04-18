@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o:Hi 👋, I'm Fellipe Melo</h1>
+<h1 align="center">Olá, eu sou o Fellipe Melo</h1>
 <h3 align="center"><head>Apenas um rapaz latino americano se aventurando na Área de Dados, com ênfase em Business Analytics e Intelligence, embora o começo deste resumo seja descontraído, demonstro competências neste site.</head></h3>
 
 - 🌱 Atualmente estou aprendendo **SQL, Power BI, Python**
