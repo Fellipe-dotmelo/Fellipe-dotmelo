@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL, Power BI, Python**
 
-- 👨‍💻 O meu portfólio: [https://fellipe-dotmelo.github.io/fellipemelo/html/#contato](https://fellipe-dotmelo.github.io/fellipemelo/html/#contato)
+- 👨‍💻 O meu portfólio: [fellipe-dotmelo.github.io/portfolio/)
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
 
